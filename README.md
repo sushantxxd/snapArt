@@ -35,7 +35,7 @@ Screen Log is an AI-powered screenshot manager that helps you organize, analyze,
 
 #### 1. Clone the Repository
 ```sh
- git clone https://github.com/dev778g-me/SnapLog.git
+ git clone https://github.com/sushantxxd/snapArt
 ```
 
 #### 2. Open the Project in Android Studio
@@ -58,7 +58,3 @@ Screen Log is an AI-powered screenshot manager that helps you organize, analyze,
 ## 📜 License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## 📬 Contact
-For any questions or feedback, feel free to reach out:
-- **Twitter/X**: [@Dev778g](https://x.com/Dev778g)
-- **Email**: sanji778g@gmail.com
